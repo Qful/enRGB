@@ -1,25 +1,16 @@
-﻿# [EdgeLight](https://github.com/litfe/EdgeLight) 
-
-家庭智能灯光控制
+﻿# [enLight](https://github.com/lite-life/enLight) 
 
 [![sites](litelife/litelife.png)](http://www.litelife.cc)
 
-#### 更多关于：[litelife](https://github.com/litfe/litelife) 可访问 www.litelife.cc
+#### qitas@qitas.cn -- [GitHub](https://github.com/lite-life/litelife)
 
----
+## [简介](https://github.com/lite-life/enLight/wiki) 
 
-### 简介
+可复用的灯光控制组件，包括照明和信息呈现
 
+### [组成](litelife/) 
 
+- [文档](docs/) 
+- [资源](src/) 
+- [工程](projects/) 
 
----
-
-## 组成
-
-#### arduino
-
----
-
-为锻造最美之器
-
-##  www.litelife.cc   |   qitas@qitas.cn
