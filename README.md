@@ -1,16 +1,19 @@
-﻿# [enLight](https://github.com/lite-life/enLight) 
+﻿# [enRGB](https://github.com/Qful/enRGB) 
+[![sites](Qful/Qful.png)](http://www.Qful.net)
+## [Q简介](https://github.com/Qful/enRGB) 
 
-[![sites](litelife/litelife.png)](http://www.litelife.cc)
+RGB灯光控制模块，集成相应的灯光效果和控制单元
 
-#### qitas@qitas.cn -- [GitHub](https://github.com/lite-life/litelife)
+- [APA102](APA102/)
+- [WS2812](WS2812/)
+- [SK6812](SK6812/)
 
-## [简介](https://github.com/lite-life/enLight/wiki) 
 
-可复用的灯光控制组件，包括照明和信息呈现
+### [Q资源](https://github.com/Qful/enRGB)
 
-### [组成](litelife/) 
+- [Q系统](https://github.com/OS-Q)
+- [Q硬件](https://github.com/sochub)
+- [Q智慧](https://github.com/tfzoo)
+- [Q品质](https://github.com/qitas)
 
-- [文档](docs/) 
-- [资源](src/) 
-- [工程](projects/) 
-
+### www.Qful.net

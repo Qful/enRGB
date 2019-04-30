@@ -1,1 +1,0 @@
-../../../light_ws2812_AVR/Examples/Chained_writes.c
